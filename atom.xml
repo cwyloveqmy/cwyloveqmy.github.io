@@ -6,7 +6,7 @@
   <link href="http://cywloveqmy.love/atom.xml" rel="self"/>
   
   <link href="http://cywloveqmy.love/"/>
-  <updated>2021-03-22T08:18:02.588Z</updated>
+  <updated>2021-03-22T12:39:14.842Z</updated>
   <id>http://cywloveqmy.love/</id>
   
   <author>
@@ -17,74 +17,172 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>markdown的使用方法</title>
-    <link href="http://cywloveqmy.love/2021/03/22/markdown%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/"/>
-    <id>http://cywloveqmy.love/2021/03/22/markdown%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</id>
-    <published>2021-03-22T06:14:23.000Z</published>
-    <updated>2021-03-22T08:18:02.588Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="markdown-的使用方法"><a href="#markdown-的使用方法" class="headerlink" title="markdown 的使用方法"></a>markdown 的使用方法</h1><h4 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h4><blockquote><p>我们使用几个#就代表使用几级标题。在文本的下方添加任意数量的“====”代表一级标题，“—”代表二级标题。 </p><blockquote><p>sad</p></blockquote><ul><li>我们使用几个#就代表使用几级标题。在文本的下方添加任意数量的“====”代表一级标题，“—”代表二级标题。 </li></ul></blockquote><h4 id="段落"><a href="#段落" class="headerlink" title="段落"></a>段落</h4><h4 id="换行"><a href="#换行" class="headerlink" title="换行"></a>换行</h4><h4 id="斜体-粗体"><a href="#斜体-粗体" class="headerlink" title="斜体 粗体"></a>斜体 粗体</h4><ol><li>一</li><li>二<ol><li>一</li><li>二</li><li>三</li></ol></li><li>三</li></ol><ul><li><p>一</p></li><li><p>二</p></li><li><p>the <code>asd</code>.</p></li></ul><p><img src="/img/love.png" alt="poicture"></p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line">[</span><br><span class="line">]</span><br></pre></td></tr></table></figure><ul><li><a href="https://www.baidu.com/">https://www.baidu.com</a></li><li><a href="mailto:&#x79;&#97;&#x6f;&#x31;&#57;&#55;&#x30;&#x30;&#57;&#x39;&#x35;&#52;&#x30;&#x40;&#x31;&#x36;&#x33;&#46;&#99;&#111;&#x6d;">&#x79;&#97;&#x6f;&#x31;&#57;&#55;&#x30;&#x30;&#57;&#x39;&#x35;&#52;&#x30;&#x40;&#x31;&#x36;&#x33;&#46;&#99;&#111;&#x6d;</a></li></ul>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;markdown-的使用方法&quot;&gt;&lt;a href=&quot;#markdown-的使用方法&quot; class=&quot;headerlink&quot; title=&quot;markdown 的使用方法&quot;&gt;&lt;/a&gt;markdown 的使用方法&lt;/h1&gt;&lt;h4 id=&quot;标题&quot;&gt;&lt;a href=&quot;#标题&quot;</summary>
-      
+    <title>love-10</title>
+    <link href="http://cywloveqmy.love/2021/03/22/love-10/"/>
+    <id>http://cywloveqmy.love/2021/03/22/love-10/</id>
+    <published>2021-03-22T12:37:27.000Z</published>
+    <updated>2021-03-22T12:39:14.842Z</updated>
     
     
     
-    <category term="cat1" scheme="http://cywloveqmy.love/categories/cat1/"/>
+    
+    <category term="love if the first" scheme="http://cywloveqmy.love/categories/love-if-the-first/"/>
     
     
-    <category term="markdown" scheme="http://cywloveqmy.love/tags/markdown/"/>
+    <category term="love" scheme="http://cywloveqmy.love/tags/love/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://cywloveqmy.love/2021/03/22/hello-world/"/>
-    <id>http://cywloveqmy.love/2021/03/22/hello-world/</id>
-    <published>2021-03-22T06:05:15.000Z</published>
-    <updated>2021-03-22T07:35:20.436Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
+    <title>love-9</title>
+    <link href="http://cywloveqmy.love/2021/03/22/love-9/"/>
+    <id>http://cywloveqmy.love/2021/03/22/love-9/</id>
+    <published>2021-03-22T12:37:21.000Z</published>
+    <updated>2021-03-22T12:39:09.246Z</updated>
     
     
     
-    <category term="cat2, cat3" scheme="http://cywloveqmy.love/categories/cat2-cat3/"/>
+    
+    <category term="love if the first" scheme="http://cywloveqmy.love/categories/love-if-the-first/"/>
     
     
-    <category term="hello_world" scheme="http://cywloveqmy.love/tags/hello-world/"/>
+    <category term="love" scheme="http://cywloveqmy.love/tags/love/"/>
     
   </entry>
   
   <entry>
-    <title>hexo的使用</title>
-    <link href="http://cywloveqmy.love/2021/03/22/hexo%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
-    <id>http://cywloveqmy.love/2021/03/22/hexo%E7%9A%84%E4%BD%BF%E7%94%A8/</id>
-    <published>2021-03-22T05:05:15.000Z</published>
-    <updated>2021-03-22T11:54:20.044Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="hello-hexo"><a href="#hello-hexo" class="headerlink" title="hello hexo"></a>hello hexo</h1><h2 id="安装前提"><a href="#安装前提" class="headerlink" title="安装前提"></a>安装前提</h2><ul><li>安装git</li><li>安装Node.js<h2 id="安装hexo"><a href="#安装hexo" class="headerlink" title="安装hexo"></a>安装hexo</h2></li><li>window cmd 下输入 npm install -g hexo-cli<h2 id="使用hexo"><a href="#使用hexo" class="headerlink" title="使用hexo"></a>使用hexo</h2><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">hexo init &lt;foldername&gt;</span><br><span class="line">cd &lt;folder&gt;</span><br><span class="line">npm install</span><br><span class="line"></span><br></pre></td></tr></table></figure><h2 id="安装server与deployer"><a href="#安装server与deployer" class="headerlink" title="安装server与deployer"></a>安装server与deployer</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-server --save</span><br><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure><h2 id="基础命令"><a href="#基础命令" class="headerlink" title="基础命令"></a>基础命令</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">hexo new &#x2F;&#x2F;生成文章</span><br><span class="line">hexo c  &#x2F;&#x2F;清理</span><br><span class="line">hexo g  &#x2F;&#x2F;生成</span><br><span class="line">hexo s  &#x2F;&#x2F;启动本地服务</span><br><span class="line">hexo d  &#x2F;&#x2F;部署</span><br><span class="line">简单地使用为 hexo g -d</span><br></pre></td></tr></table></figure></li></ul><hr><h4 id="以上就是hexo的基础使用了。"><a href="#以上就是hexo的基础使用了。" class="headerlink" title="以上就是hexo的基础使用了。"></a>以上就是hexo的基础使用了。</h4><hr><h2 id="配置github-page"><a href="#配置github-page" class="headerlink" title="配置github page"></a>配置github page</h2><ul><li>建立一个GitHub仓库</li><li>将仓库配置为GitHub page</li><li>输入自己的域名 cuimouren.cn</li></ul><h2 id="解析自己的域名到GitHub-page"><a href="#解析自己的域名到GitHub-page" class="headerlink" title="解析自己的域名到GitHub page"></a>解析自己的域名到GitHub page</h2><h4 id="添加如下的域名解析记录"><a href="#添加如下的域名解析记录" class="headerlink" title="添加如下的域名解析记录"></a>添加如下的域名解析记录</h4><ul><li>主机记录： @</li><li>记录类型： CNAME</li><li>线路类型： 默认</li><li>记录值：     yishuilingbo.github.io  即GitHub page分配的网址</li></ul><h2 id=""><a href="#" class="headerlink" title=""></a></h2><hr><h4 id="到此就完成了框架性的工作"><a href="#到此就完成了框架性的工作" class="headerlink" title="到此就完成了框架性的工作"></a>到此就完成了框架性的工作</h4><hr><h2 id="‘菜’的坑"><a href="#‘菜’的坑" class="headerlink" title="‘菜’的坑"></a>‘<strong>菜’的坑</strong></h2><h3 id="注意得在cmd环境下进行操作，powershell不行。"><a href="#注意得在cmd环境下进行操作，powershell不行。" class="headerlink" title="注意得在cmd环境下进行操作，powershell不行。"></a>注意得在cmd环境下进行操作，powershell不行。</h3><h3 id="Hexo在部署到Github后CNAME文件会消失或改变的解决方法"><a href="#Hexo在部署到Github后CNAME文件会消失或改变的解决方法" class="headerlink" title="Hexo在部署到Github后CNAME文件会消失或改变的解决方法"></a>Hexo在部署到Github后CNAME文件会消失或改变的解决方法</h3><h4 id="问题经过"><a href="#问题经过" class="headerlink" title="问题经过:"></a>问题经过:</h4><ul><li><p>在转移网站后,在 Github网页上修改CNAME文件中指向的域名后,重新部署Hexo时发现CNAME指向的域名是之前的网站,而没有编程修改后的域名.排查后发现:</p></li><li><p>Hexo在Github上部署后,如果配置了一个自定义域名时,会自动在项目仓库根目录想新建一个CNAME文件,但是重新部署后CNAME会消失或者变成修改之前的状态,导致需要再次手动修改.</p></li></ul><h4 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法:"></a>解决方法:</h4><ul><li>直接修改 hexo目录 下 source 文件夹内的CNAME文件的内容,用编辑器打开,第一行输入需要配置的域名.这样在部署的时候CNAME 文件会自动部署到Github.不用再次手动修改.</li></ul><h3 id="注意配置git的username-与-email"><a href="#注意配置git的username-与-email" class="headerlink" title="注意配置git的username 与 email"></a>注意配置git的username 与 email</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.name &quot;name&quot;</span><br><span class="line">git config --global user.email &quot;email@gmail.com&quot;</span><br><span class="line"></span><br></pre></td></tr></table></figure><h3 id="git网络问题"><a href="#git网络问题" class="headerlink" title="git网络问题"></a>git网络问题</h3><h4 id="设置git的代理"><a href="#设置git的代理" class="headerlink" title="设置git的代理"></a>设置git的代理</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --global http.proxy 127.0.0.1:7890</span><br><span class="line"></span><br></pre></td></tr></table></figure><h3 id="deployer-not-found"><a href="#deployer-not-found" class="headerlink" title="deployer not found"></a>deployer not found</h3><ul><li>npm install hexo-deployer-git –save</li></ul><h3 id="permission-denied"><a href="#permission-denied" class="headerlink" title="permission denied"></a>permission denied</h3><ul><li>hexo 只支持单用户凭证，所以需要去控制面板中更改git:<a href="https://github.com/">https://github.com</a> 的用户凭证即可。使用哪一个github用户时就更新成哪一个。</li></ul>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;hello-hexo&quot;&gt;&lt;a href=&quot;#hello-hexo&quot; class=&quot;headerlink&quot; title=&quot;hello hexo&quot;&gt;&lt;/a&gt;hello hexo&lt;/h1&gt;&lt;h2 id=&quot;安装前提&quot;&gt;&lt;a href=&quot;#安装前提&quot; class=&quot;head</summary>
-      
+    <title>love-8</title>
+    <link href="http://cywloveqmy.love/2021/03/22/love-8/"/>
+    <id>http://cywloveqmy.love/2021/03/22/love-8/</id>
+    <published>2021-03-22T12:37:17.000Z</published>
+    <updated>2021-03-22T12:39:03.477Z</updated>
     
     
     
-    <category term="cat1" scheme="http://cywloveqmy.love/categories/cat1/"/>
+    
+    <category term="love if the first" scheme="http://cywloveqmy.love/categories/love-if-the-first/"/>
     
     
-    <category term="hexo" scheme="http://cywloveqmy.love/tags/hexo/"/>
+    <category term="love" scheme="http://cywloveqmy.love/tags/love/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>love-7</title>
+    <link href="http://cywloveqmy.love/2021/03/22/love-7/"/>
+    <id>http://cywloveqmy.love/2021/03/22/love-7/</id>
+    <published>2021-03-22T12:37:12.000Z</published>
+    <updated>2021-03-22T12:38:58.002Z</updated>
+    
+    
+    
+    
+    <category term="love if the first" scheme="http://cywloveqmy.love/categories/love-if-the-first/"/>
+    
+    
+    <category term="love" scheme="http://cywloveqmy.love/tags/love/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>love-6</title>
+    <link href="http://cywloveqmy.love/2021/03/22/love-6/"/>
+    <id>http://cywloveqmy.love/2021/03/22/love-6/</id>
+    <published>2021-03-22T12:37:06.000Z</published>
+    <updated>2021-03-22T12:38:52.175Z</updated>
+    
+    
+    
+    
+    <category term="love if the first" scheme="http://cywloveqmy.love/categories/love-if-the-first/"/>
+    
+    
+    <category term="love" scheme="http://cywloveqmy.love/tags/love/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>love-5</title>
+    <link href="http://cywloveqmy.love/2021/03/22/love-5/"/>
+    <id>http://cywloveqmy.love/2021/03/22/love-5/</id>
+    <published>2021-03-22T12:36:53.000Z</published>
+    <updated>2021-03-22T12:38:45.873Z</updated>
+    
+    
+    
+    
+    <category term="love if the first" scheme="http://cywloveqmy.love/categories/love-if-the-first/"/>
+    
+    
+    <category term="love" scheme="http://cywloveqmy.love/tags/love/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>love-4</title>
+    <link href="http://cywloveqmy.love/2021/03/22/love-4/"/>
+    <id>http://cywloveqmy.love/2021/03/22/love-4/</id>
+    <published>2021-03-22T12:36:49.000Z</published>
+    <updated>2021-03-22T12:38:38.819Z</updated>
+    
+    
+    
+    
+    <category term="love if the first" scheme="http://cywloveqmy.love/categories/love-if-the-first/"/>
+    
+    
+    <category term="love" scheme="http://cywloveqmy.love/tags/love/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>love-3</title>
+    <link href="http://cywloveqmy.love/2021/03/22/love-3/"/>
+    <id>http://cywloveqmy.love/2021/03/22/love-3/</id>
+    <published>2021-03-22T12:36:44.000Z</published>
+    <updated>2021-03-22T12:38:30.724Z</updated>
+    
+    
+    
+    
+    <category term="love if the first" scheme="http://cywloveqmy.love/categories/love-if-the-first/"/>
+    
+    
+    <category term="love" scheme="http://cywloveqmy.love/tags/love/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>love-2</title>
+    <link href="http://cywloveqmy.love/2021/03/22/love-2/"/>
+    <id>http://cywloveqmy.love/2021/03/22/love-2/</id>
+    <published>2021-03-22T12:36:36.000Z</published>
+    <updated>2021-03-22T12:38:24.925Z</updated>
+    
+    
+    
+    
+    <category term="love if the first" scheme="http://cywloveqmy.love/categories/love-if-the-first/"/>
+    
+    
+    <category term="love" scheme="http://cywloveqmy.love/tags/love/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>love-1</title>
+    <link href="http://cywloveqmy.love/2021/03/22/love-1/"/>
+    <id>http://cywloveqmy.love/2021/03/22/love-1/</id>
+    <published>2021-03-22T12:36:24.000Z</published>
+    <updated>2021-03-22T12:38:15.803Z</updated>
+    
+    
+    
+    
+    <category term="love if the first" scheme="http://cywloveqmy.love/categories/love-if-the-first/"/>
+    
+    
+    <category term="love" scheme="http://cywloveqmy.love/tags/love/"/>
     
   </entry>
   
